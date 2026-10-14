@@ -1,0 +1,24 @@
+{
+  "name": "aulas_senac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "README..js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delimaelenicevieira/aulas_senac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/delimaelenicevieira/aulas_senac/issues"
+  },
+  "homepage": "https://github.com/delimaelenicevieira/aulas_senac#readme",
+  "dependencies": {
+    "inquirer": "^14.2.3"
+  }
+}
